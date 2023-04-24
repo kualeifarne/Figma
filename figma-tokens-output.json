@@ -1,5 +1,12 @@
 {
-  "global": {},
+  "global": {
+    "green": {
+      "100": {
+        "value": "#cfe548",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
